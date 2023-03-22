@@ -32,7 +32,7 @@ npm start
 4) The user data will be displayed as cards on the grid layout.
 5) A loader will be displayed while the user data is being fetched.
 
-## Usage
+## Features
 1) User card grid layout using React
 2) "Get Users" button to fetch user data from an API
 3) Loader while fetching user data
