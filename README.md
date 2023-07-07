@@ -3,6 +3,7 @@
 This project is a React user card grid layout created using JavaScript, React, CSS/SASS, and an API call to ReqRes.
 
 ## Installation
+
 1) Clone the repository:
 
 ```bash
